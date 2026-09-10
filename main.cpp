@@ -2,6 +2,7 @@
 
 void test()
 {
+	std::cout << "add github";
 }
 
 int main()
