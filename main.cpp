@@ -8,7 +8,7 @@ void test()
 
 void test02()
 {
-	
+	cout << "又一个测试";
 }
 int main()
 {
