@@ -6,9 +6,14 @@ void test()
 	std::cout << "modify github";
 }
 
+void test02()
+{
+	
+}
 int main()
 {
 	std::cout << "Hello World!!!";
 	test();
+	test02();
 	return 0;
 }
