@@ -10,7 +10,11 @@ void test02()
 {
 
 
-	cout << "第二次测试";
+	cout << "第二次测试";//main注释
+	/**
+	*下面要进行merge
+	*
+	*/
 
 }
 int main()
